@@ -58,3 +58,9 @@ Artifacts there cover:
 - the role catalog and least-privilege boundaries
 - the Supabase RLS policy draft for later implementation
 - the initial admin-assignee tracker for Appia confirmation
+
+## AI Data Ops
+
+The Roboflow dataset-operations package for `ONYX-18` lives in:
+
+- `05_AI_DataOps/`
