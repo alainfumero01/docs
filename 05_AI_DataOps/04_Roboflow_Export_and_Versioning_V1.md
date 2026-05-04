@@ -16,6 +16,9 @@ This document defines the target workspace configuration for dataset export and 
 - live project name: `Blade Damage Detection`
 - dataset version initialized: `v1-baseline` as version `1`
 - YOLO export confirmed as available on version `1` with `yolov11`
+- unlabeled import batch uploaded: `nordtank586x371-damage-unlabeled-20260504`
+- uploaded image count in that batch: `2,527`
+- import rule used: include only images whose legacy coarse labels contained `damage`; exclude `dirt`-only images
 
 ## Dataset Export Standard
 

@@ -22,4 +22,8 @@ These artifacts are meant to be uploaded or referenced inside the Roboflow works
 - Roboflow project created as `blade-damage-detection`
 - dataset version `v1-baseline` created
 - YOLOv11 export initialized for version `1`
+- unlabeled damage-image import batch uploaded:
+  - batch: `nordtank586x371-damage-unlabeled-20260504`
+  - images: `2,527`
+  - source filtering rule: imported only images whose coarse legacy labels included `damage`
 - team member provisioning and class locking remain pending live workspace configuration
