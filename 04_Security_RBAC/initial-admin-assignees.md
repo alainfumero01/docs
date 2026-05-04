@@ -18,7 +18,9 @@ Appia has confirmed the initial named assignees for the highest-privilege admin 
 - `Finance Admin`: Dania Mustelier
 - `HR Admin`: Tiffany Sloan
 
-Appia stakeholder sign-off is still required to close the RBAC review loop.
+Appia stakeholder sign-off has been recorded to close the RBAC review loop.
+
+- `Appia stakeholder sign-off`: Daniel Maza
 
 ## Proposed Confirmation Format
 
@@ -26,4 +28,4 @@ Appia stakeholder sign-off is still required to close the RBAC review loop.
 - `IT Admin`: Daniel Maza
 - `Finance Admin`: Dania Mustelier
 - `HR Admin`: Tiffany Sloan
-- `Appia stakeholder sign-off`: Name
+- `Appia stakeholder sign-off`: Daniel Maza
