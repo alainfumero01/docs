@@ -4,8 +4,9 @@ This document defines the target workspace configuration for dataset export and 
 
 ## Workspace Intent
 
-- workspace owner: Appia Wind Services
-- billing owner: Appia
+- provisional workspace owner until Appia onboarding: `alain.fumero@aidasolutionsgroup.com`
+- target long-term workspace owner: Appia Wind Services
+- target billing owner: Appia
 - AIDA AI team access: annotator or reviewer roles only unless higher access is explicitly needed
 
 ## Dataset Export Standard
@@ -62,9 +63,10 @@ Each Roboflow dataset version should include:
 
 These items require direct Roboflow access and are not completed in this repository alone:
 
-- create or verify the Appia-owned workspace
+- create or verify the Roboflow workspace
 - configure the 15 labels in Roboflow
 - upload the annotation guidelines into the workspace
 - add AIDA AI team members with annotator access
 - confirm the Roboflow export target is configured for YOLOv11
 - enable dataset versioning in the live workspace
+- transfer or add ownership to Appia after the Appia onboarding meeting
