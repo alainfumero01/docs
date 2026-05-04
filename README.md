@@ -45,3 +45,16 @@ This keeps approvals written, retained, and auditable inside GitHub.
 6. Download the generated rollback artifact and confirm the rollback target, operator, and reason.
 
 The CI workflow also runs a rollback smoke test so the rollback manifest path is continuously validated.
+
+## Security Architecture
+
+The RBAC design package for `ONYX-17` lives in:
+
+- `04_Security_RBAC/`
+
+Artifacts there cover:
+
+- the 15-role permission matrix across ERP and Windfix AI modules
+- the role catalog and least-privilege boundaries
+- the Supabase RLS policy draft for later implementation
+- the initial admin-assignee tracker for Appia confirmation
