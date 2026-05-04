@@ -9,6 +9,14 @@ This document defines the target workspace configuration for dataset export and 
 - target billing owner: Appia
 - AIDA AI team access: annotator or reviewer roles only unless higher access is explicitly needed
 
+## Live Workspace Status
+
+- verified workspace id: `project-onyx`
+- live project id: `project-onyx/blade-damage-detection`
+- live project name: `Blade Damage Detection`
+- dataset version initialized: `v1-baseline` as version `1`
+- YOLO export confirmed as available on version `1` with `yolov11`
+
 ## Dataset Export Standard
 
 - export format: `YOLOv11`
@@ -63,10 +71,7 @@ Each Roboflow dataset version should include:
 
 These items require direct Roboflow access and are not completed in this repository alone:
 
-- create or verify the Roboflow workspace
-- configure the 15 labels in Roboflow
+- configure or lock the 15 labels in the live Roboflow project settings
 - upload the annotation guidelines into the workspace
 - add AIDA AI team members with annotator access
-- confirm the Roboflow export target is configured for YOLOv11
-- enable dataset versioning in the live workspace
 - transfer or add ownership to Appia after the Appia onboarding meeting

@@ -18,4 +18,8 @@ These artifacts are meant to be uploaded or referenced inside the Roboflow works
 - annotation guidelines drafted
 - train/val/test split strategy documented
 - export and dataset versioning strategy documented
-- external Roboflow workspace creation and member provisioning still require Roboflow access
+- Roboflow workspace verified as `project-onyx`
+- Roboflow project created as `blade-damage-detection`
+- dataset version `v1-baseline` created
+- YOLOv11 export initialized for version `1`
+- team member provisioning and class locking remain pending live workspace configuration
