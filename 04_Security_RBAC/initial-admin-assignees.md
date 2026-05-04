@@ -11,12 +11,19 @@ This file tracks the named assignees required for highest-privilege roles.
 
 ## Status
 
-Appia confirmation is still required for the initial named assignees for these roles.
+Appia has confirmed the initial named assignees for the highest-privilege admin roles below.
+
+- `System Admin`: Marco Maza
+- `IT Admin`: Daniel Maza
+- `Finance Admin`: Dania Mustelier
+- `HR Admin`: Tiffany Sloan
+
+Appia stakeholder sign-off is still required to close the RBAC review loop.
 
 ## Proposed Confirmation Format
 
-- `System Admin`: Name
-- `IT Admin`: Name
-- `Finance Admin`: Name
-- `HR Admin`: Name
+- `System Admin`: Marco Maza
+- `IT Admin`: Daniel Maza
+- `Finance Admin`: Dania Mustelier
+- `HR Admin`: Tiffany Sloan
 - `Appia stakeholder sign-off`: Name
