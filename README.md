@@ -64,3 +64,9 @@ Artifacts there cover:
 The Roboflow dataset-operations package for `ONYX-18` lives in:
 
 - `05_AI_DataOps/`
+
+## FinOps
+
+The running cost register for Project Onyx lives in:
+
+- `06_FinOps/`
